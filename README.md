@@ -1,2 +1,2 @@
-# survey4MA.github.io
+# survey4MA
 link to generate survey randomly
